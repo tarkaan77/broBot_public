@@ -2,7 +2,7 @@ BroBot - Elektronischer Blindenhund
 
 Über das Projekt:
 
-Im Rahmen des Moduls WI-Projekt an der ZHAW wurde das Thema "Elektronischer Blindenhund" von Wöden Gyamotsand, Martin Wipf und Tarkan Kaguri ausgewählt und unter dem Namen "BroBot" umgesetzt. Unser Ziel war es, einen Roboter zu entwickeln, der Blinden im Alltag assistieren kann. Wir entschieden uns für eine Steuerung basierend auf Python-Programmierung.
+Im Rahmen des Moduls WI-Projekt an der ZHAW wurde das Projekt "Elektronischer Blindenhund" von Wöden Gyamotsand, Martin Wipf und Tarkan Kaguri ausgewählt und unter dem Namen "BroBot" umgesetzt. Unser Ziel war es, einen Roboter zu entwickeln, der Blinden im Alltag assistieren kann. Wir entschieden uns für eine Steuerung basierend auf Python-Programmierung.
 
 Die Datei in diesem Verzeichnis Final_Demonstration_BroBot.mp4 zeigt wie weit wir gekommen sind und ist eine kurze Videodemonstration.
 
